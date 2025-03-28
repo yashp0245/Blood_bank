@@ -50,16 +50,16 @@
     Handcrafted By-
   </div>
   <div class="card-body">
-  <h5 class="card-title">Chinmay Yuvraj Khillari </h5><p style="color: red;">Email: chinmaykhillari10@gmail.com</p>
+  
     <h5 class="card-title">Yash Jayant Patil</h5><p style="color: red;">Email: yashp0245@gmail.com</p>
-    <h5 class="card-title">Darshan Jayesh Patil</h5><p style="color: red;">Email:darshpatil257@gmail.com</p>
+    
   </div>
 </div>
 </div>
 </div>
 </div>
   <!-- <div>
-  <p class="text-center bg-danger text-white">Yash Jayant Patil -9767129653 yashp0245@gmail.com<br>Chinmay Yuvraj Khillari - 8459593989, chinmaykhillari10@gmail.com<br>Darshan Jayesh Patil - 9657922046 
+  <p class="text-center bg-danger text-white">Yash Jayant Patil -9767129653 yashp0245@gmail.com 
   </p>
   <a href="contact.php"> </a>
 </div> -->
