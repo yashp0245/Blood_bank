@@ -25,9 +25,9 @@
 <body>
 
 <div class="footer">
-  <p>© Copyright &emsp13;<span id="demo"></span> <span class="brand">KTHM'S Blood Bank.
+  <p>© Copyright &emsp13;<span id="demo"></span> <span class="brand">MIT World Peace University's Blood Bank.
 
-  </span> &emsp14; All Rights Reserved.<br>@phenomenal_1 &emsp; @_chinmay_k_
+  </span> &emsp14; All Rights Reserved.<br>@phenomenal_1 &emsp;
 </footer></p>
 </div>
 
